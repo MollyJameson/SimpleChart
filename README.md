@@ -1,7 +1,7 @@
 SimpleChart Actionscript Library
 ============
 
-It's a lightweight ( < 5kb to your final swf ) pure actionscript library for chart drawing. See the demo above for examples.
+It's a lightweight ( < 5kb to your final swf ) pure actionscript library for chart drawing. See the [demo](http://www.mollyjameson.com/PersonalProjects/SimpleChartDemo/) above for examples.
 
 You can just download the swc in the bin directory to get the functionality or download the source.
 
