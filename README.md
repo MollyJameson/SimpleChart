@@ -5,6 +5,11 @@ It's a lightweight ( < 5kb to your final swf ) pure actionscript library for cha
 
 You can just download the swc in the bin directory to get the functionality or download the source.
 
+Why would you use SimpleChart?
+---------------
+The target use is needing to display stats to fill space at the end of a level of a game or really just displaying progression and not wanting to have to format, style and rewrite your own line charts.
+There's no pure flash equivalent and the mx library version has a huge overhead for this simple feature.
+
 Basic Features
 ---------------
 
